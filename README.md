@@ -35,3 +35,5 @@ To run the project, follow these steps:
 - Run `mlflow ui` to launch the MLFlow UI.
 - Open your web browser and navigate to http://localhost:5000.
 - In the MLFlow UI, you can view the experiment runs, metrics, and artifacts.
+
+## Screenshots
