@@ -17,7 +17,7 @@ data = pd.read_csv(data_url, sep=";")
 train, test = train_test_split(data, test_size=0.2)
 
 # Defining the model
-model = RandomForestRegressor(n_estimators=100, max_depth=10)
+model = RandomForestRegressor(n_estimators=150, max_depth=10)
 
 # Training the model
 model.fit(train.drop(["quality"], axis=1), train["quality"])
