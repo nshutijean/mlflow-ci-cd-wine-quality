@@ -37,3 +37,7 @@ To run the project, follow these steps:
 - In the MLFlow UI, you can view the experiment runs, metrics, and artifacts.
 
 ## Screenshots
+
+![table view of the experiments](./screenshots/table-view.png)
+
+![chart view of the experiments](./screenshots/chart-view.png)
